@@ -1,5 +1,9 @@
 <template>
-  <v-main></v-main>
+  <v-main>oi</v-main>
 </template>
 
-<script lang="ts"></script>
+<script lang="ts">
+export default {
+  name: "Home"
+};
+</script>
